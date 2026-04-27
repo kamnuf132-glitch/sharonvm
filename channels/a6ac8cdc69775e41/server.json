@@ -1,1 +1,1 @@
-{"epoch":-8745368179459569596,"seq":121,"ts":1777305556,"frames":[{"id":"ca1c5971cbe6670903f64333c","seq":2,"status":"closed"},{"id":"c27167b9adf5064dd7312c3ee","seq":2,"status":"closed"}]}
+{"epoch":-8745368179459569596,"seq":122,"ts":1777305615,"frames":[{"id":"c8d377c6b6f6b519c4c9f9a06","seq":4,"status":"error","err":"destination read failed"}]}
